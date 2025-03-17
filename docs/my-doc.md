@@ -8,7 +8,7 @@ slug: /my-custom-url
 ## Markdown heading
 
 Markdown text with [links](./hello.md)
-
+<!-- url path -->
 Let's see how to [Create a page](/docs/tutorial-basics/create-a-page).
-
+<!-- relative file path -->
 Let's see how to [Create a page](./tutorial-basics/create-a-page.md).
